@@ -1,0 +1,24 @@
+alias e='vim ~/.bash_profile'
+alias s='source ~/.bash_profile'
+alias v='vim'
+
+# npm
+alias n='npm'
+alias nl='npm link'
+alias ns='npm start'
+alias nr='npm run'
+alias nt='npm test'
+alias nr='npm run'
+
+# git
+alias gc="git commit"
+alias gst="git status"
+alias gcl="git clone"
+alias gpl="git pull"
+alias gp="git push"
+
+
+
+export EDITOR=vim
+
+source ~/.zsh_functions
